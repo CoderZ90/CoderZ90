@@ -1,6 +1,15 @@
 # Heloooooo There 👋
 
-```js
+````js
+// ASCII Banner
+console.log(`
+  ____            _           ________         __     
+ / ___|___  _ __ | |__   ___ |___ /___ \  ___ / _| ___
+| |   / _ \| '_ \| '_ \ / _ \  |_ \ __) |/ __| |_ / __|
+| |__| (_) | | | | |_) | (_) |___) / __/\__ \  _|\__ \
+ \____\___/|_| |_|_.__/ \___/|____/_____|___/_|  |___/
+`);
+
 const AboutMe = {
   name: "CoderZ90",
   alias: ["reverse engineer", "sky watcher", "code minimalist"],
@@ -43,30 +52,30 @@ const AboutMe = {
 };
 
 console.log("Always debugging. Rarely sleeping. Problems Everywhere.");
-```
+````
 
 ---
 
 ### 🧰 Toolbox
 <div align="center">
 
-<img alt="VSCode" title="VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="Sass" title="Sass" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="GitHub" title="GitHub" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+<img alt="VSCode" title="VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;"/>
+<img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding: 10px;"/>
+<img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding: 10px;"/>
+<img alt="Sass" title="Sass" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding: 10px;"/>
+<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding: 10px;"/>
+<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding: 10px;"/>
+<img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding: 10px;"/>
+<img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding: 10px;"/>
+<img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding: 10px;"/>
+<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding: 10px;"/>
+<img alt="GitHub" title="GitHub" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding: 10px;"/>
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 📊 Contribution Graph
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
@@ -77,5 +86,10 @@ console.log("Always debugging. Rarely sleeping. Problems Everywhere.");
 
 ---
 
-> "Be the signal in the noise. Be the breakpoint in the loop." 
+### 🌟 Theme Mode (Auto)
+This README supports GitHub's light/dark mode. Try switching your GitHub theme — the snake and icons adapt accordingly.
+
+---
+
+> "Be the signal in the noise. Be the breakpoint in the loop."  
 > — *CoderZ90*
