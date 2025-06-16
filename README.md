@@ -1,10 +1,5 @@
-## Hi there 👋
+## Heloooooo There 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
-</picture>
 
 <h3>ABOUT ME</h3>
 
@@ -64,3 +59,10 @@ console.log("Always debugging. Rarely sleeping. Problems Everywhere.");
 - <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
 - <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
 - <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
+</picture>
