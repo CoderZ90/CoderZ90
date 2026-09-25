@@ -5,51 +5,28 @@
 ````js
 const AboutMe = {
   name: "CoderZ90",
-  alias: ["reverse engineer", "sky watcher", "code minimalist"],
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Rust",
-    "HTML",
-    "CSS",
-    "Shell",
-    "Nodejs"
-  ],
-  skills: [
-    "Game hacking",
-    "Reverse engineering",
-    "Network sniffing",
-    "Browser extensions",
-    "Low-level debugging",
-    "Full Stack Developer"
-  ],
-  tools: [
-    "VSCode",
-    "Chrome DevTools",
-    "Wireshark",
-    "Fiddler",
-    "Netcat",
-    "MinHook",
-    "Frida",
-    "Ghidra"
-  ],
+  languages: [ "JavaScript", "TypeScript", "Python", "Rust", "Nodejs", "Golang" ],
+  skills: [ "Full Stack Developer", "AI/ML", "DEVOPS", "I use arch btw XD" ],
   currentFocus: [
     "MediaPipe + AI vision",
     "DirectX hook in Rust",
-    "A Game Client in Electron - Fun project"
+    "A Game Client in Electron - Fun project",
+    "Building my own toy programming language :D"
+    "Augmented reality and Holograms",
+    "Automation and AI Driven/Spec driven development/apps"
   ],
-  operatingSystem: ["Kali Linux", "Windows", "macOS"],
-  lifePhilosophy: () => 
-    "write.clean(); break.rules(); admire.sunsets();"
+  operatingSystem: ["Arch btw"],
+  Hobbies: Gaming, Cooking, Art/Craft hehe, Anime
+  lifePhilosophy: () =>
+      "works.on.my.machine(); ship(); pray();"
 };
 
-console.log("Always debugging. Rarely sleeping. Problems Everywhere.");
+console.log("Never trust a computer you can't throw out a window.");
 ````
 
 ---
 
-### 🧰 Toolbox
+### What is this, dont ask me :)
 <div align="center">
 
 <img alt="VSCode" title="VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding: 10px;"/>
@@ -68,21 +45,20 @@ console.log("Always debugging. Rarely sleeping. Problems Everywhere.");
 
 ---
 
-### 📊 Contribution Graph
+### Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/download.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/contribution.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/contribution.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoderZ90/CoderZ90/refs/heads/main/contribution.svg">
   </picture>
 </p>
 
 ---
 
-### 🌟 Theme Mode (Auto)
 This README supports GitHub's light/dark mode. Try switching your GitHub theme — the snake and icons adapt accordingly.
 
 ---
 
-> "Be the signal in the noise. Be the breakpoint in the loop."  
+> "[Linus Torvalds Once Said (XD).](https://x.com/Linus__Torvalds/status/296333253571387392)"  
 > — *CoderZ90*
