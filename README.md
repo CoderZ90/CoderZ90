@@ -16,7 +16,7 @@ const AboutMe = {
     "Automation and AI Driven/Spec driven development/apps"
   ],
   operatingSystem: ["Arch btw"],
-  Hobbies: Gaming, Cooking, Art/Craft hehe, Anime
+  Hobbies: [ "Gaming", "Cooking", "Art/Craft hehe", "Anime" ],
   lifePhilosophy: () =>
       "works.on.my.machine(); ship(); pray();"
 };
