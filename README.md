@@ -78,9 +78,6 @@ console.log("Never trust a computer you can't throw out a window.");
 
 ---
 
-This README supports GitHub's light/dark mode. Try switching your GitHub theme — the snake and icons adapt accordingly.
-
----
 
 > "[Linus Torvalds Once Said (XD).](https://x.com/Linus__Torvalds/status/296333253571387392)"  
 > — *CoderZ90*
