@@ -79,5 +79,5 @@ console.log("Never trust a computer you can't throw out a window.");
 ---
 
 
-> "[Linus Torvalds Once Said (XD).](https://x.com/Linus__Torvalds/status/296333253571387392)"  
+> "[Linus Torvalds Once Said (😂).](https://x.com/Linus__Torvalds/status/296333253571387392)"  
 > — *Linus Torvalds*
