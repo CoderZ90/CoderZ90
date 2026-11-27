@@ -11,7 +11,7 @@ const AboutMe = {
     "MediaPipe + AI vision",
     "DirectX hook in Rust",
     "A Game Client in Electron - Fun project",
-    "Built my own toy programming language :D"
+    "Built my own toy programming language :D - BiharLang"
     "Augmented reality and Holograms",
     "Automation and AI Driven/Spec driven development/apps"
   ],
